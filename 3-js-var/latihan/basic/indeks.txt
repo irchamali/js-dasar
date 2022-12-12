@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Belajar HTML</title>
+    </head>
+    <body>
+        <h1>Tutorial Membuat Halaman Web Sederhana</h1>
+        <h2>Tutorial Membuat Halaman Web Sederhana</h2>
+        <h3>Tutorial Membuat Halaman Web Sederhana</h3>
+        <h4>Tutorial Membuat Halaman Web Sederhana</h4>
+        <h5>Tutorial Membuat Halaman Web Sederhana</h5>
+        <h6>Tutorial Membuat Halaman Web Sederhana</h6>
+    </body>
+</html>
